@@ -1,0 +1,3 @@
+# This is a placeholder config file for your backend service.
+# Replace with your own configuration as needed for your open source deployment.
+project_id = "your-backend-project-id"
